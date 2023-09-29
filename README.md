@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **smileokuta3@gmail.com**
 
-- ⚡ Fun fact **I love building ideas**
+- ⚡ Fun fact **I create ideas**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
