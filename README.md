@@ -1,4 +1,4 @@
-
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <h1 align="center">Hi 👋, I'm Smile Okuta</h1>
 <h3 align="center">A passionate software developer from Nigeria</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif"
